@@ -1,0 +1,28 @@
+{
+  "name": "mqtt-message-publisher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuchengli/mqtt-message-publisher.git"
+  },
+  "author": "Li Xu Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuchengli/mqtt-message-publisher/issues"
+  },
+  "homepage": "https://github.com/xuchengli/mqtt-message-publisher#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "mqtt": "^3.0.0",
+    "node-cron": "^2.0.3",
+    "protobufjs": "^6.8.8",
+    "random-int": "^2.0.1",
+    "random-item": "^3.0.0"
+  }
+}
