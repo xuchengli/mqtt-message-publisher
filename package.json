@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "mqtt": "^3.0.0",
     "node-cron": "^2.0.3",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^6.11.3",
     "random-int": "^2.0.1",
     "random-item": "^3.0.0"
   }
