@@ -19,7 +19,7 @@
   "homepage": "https://github.com/xuchengli/mqtt-message-publisher#readme",
   "dependencies": {
     "moment": "^2.24.0",
-    "mqtt": "^3.0.0",
+    "mqtt": "^4.3.7",
     "node-cron": "^2.0.3",
     "protobufjs": "^6.8.8",
     "random-int": "^2.0.1",
